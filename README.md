@@ -57,10 +57,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=horlabyc&show_icons=true&hide_border=true" />
-
+  [![Sulaiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=horlabyc)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [website]: https://codeSTACKr.com
