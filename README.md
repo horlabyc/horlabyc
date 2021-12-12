@@ -39,6 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nest.js and the Custom Validation Pipe](https://betterprogramming.pub/nest-js-and-the-custom-validation-pipe-231130fda040?source=rss-4d7a128e93b8------2)
+- [The HostListener Decorator in Angular 2+](https://betterprogramming.pub/the-hostlistener-decorator-in-angular-2-fb80bc8b03?source=rss-4d7a128e93b8------2)
+- [Real-Time Search Engine With RxJS &lpar;Part 2&rpar;](https://betterprogramming.pub/real-time-search-engine-with-rxjs-part-2-6585d9394128?source=rss-4d7a128e93b8------2)
+- [Error Handling in Angular](https://betterprogramming.pub/error-handling-in-angular-67c308df0f07?source=rss-4d7a128e93b8------2)
+- [Real-Time Search Engine With RxJS](https://betterprogramming.pub/real-time-search-engine-with-rxjs-530cbadcde8c?source=rss-4d7a128e93b8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
