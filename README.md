@@ -3,7 +3,7 @@
 
 ## I'm a Husband, Father, Developer, and a mentor!!
 
-- 🌱 I’m currently learning Golang 
+- 🌱 I’m currently learning Python 
 - 🥅 2022 Goals: Become more ardent with cloud tools and Web3
 - ⚡ Fun fact: I love Manchester United FC
 
