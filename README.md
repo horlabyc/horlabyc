@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NestJS Event Emitter](https://medium.com/@olabisisulaiman/nestjs-event-emitter-c1f13e1a6459------2)
 - [Data Visualization in Go](https://betterprogramming.pub/data-visualization-in-go-e3135d93f8a8?source=rss-4d7a128e93b8------2)
 - [Nest.js and the Custom Validation Pipe](https://betterprogramming.pub/nest-js-and-the-custom-validation-pipe-231130fda040?source=rss-4d7a128e93b8------2)
 - [The HostListener Decorator in Angular 2+](https://betterprogramming.pub/the-hostlistener-decorator-in-angular-2-fb80bc8b03?source=rss-4d7a128e93b8------2)
