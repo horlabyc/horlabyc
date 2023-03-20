@@ -39,6 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Python — Working with PDF file](https://medium.com/@olabisisulaiman/python-working-with-pdf-file-4e78c5b6bae2------2)
 - [NestJS Event Emitter](https://medium.com/@olabisisulaiman/nestjs-event-emitter-c1f13e1a6459?source=rss-4d7a128e93b8------2)
 - [Data Visualization in Go](https://betterprogramming.pub/data-visualization-in-go-e3135d93f8a8?source=rss-4d7a128e93b8------2)
 - [Nest.js and the Custom Validation Pipe](https://betterprogramming.pub/nest-js-and-the-custom-validation-pipe-231130fda040?source=rss-4d7a128e93b8------2)
