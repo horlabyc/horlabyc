@@ -3,8 +3,8 @@
 
 ## I'm a Husband, Father, Developer, and a mentor!!
 
-- 🌱 I’m currently learning Python 
-- 🥅 2022 Goals: Become more ardent with cloud tools and Web3
+- 🌱 I’m currently focused on web performance and Edge computing! 
+- 🥅 Goals: Become more ardent with cloud tools and Web3
 - ⚡ Fun fact: I love Manchester United FC
 
 ### Connect with me:
